@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">🌟 Dagmawi Ayenew 🌟</h1>
+<h1 align="center"> Dagmawi Ayenew </h1>
 <h3 align="center">Computer Engineering Student | AI Enthusiast | Full-Stack Developer</h3>
 
 <!-- Typing animation -->
@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ About Me
+##  About Me
 
 <p align="center">
 Computer Engineering student passionate about building innovative solutions through AI, full-stack development, and data engineering. Dedicated to creating scalable, efficient, and impactful technology for tomorrow.
@@ -32,12 +32,12 @@ Computer Engineering student passionate about building innovative solutions thro
 
 ---
 
-## 🎓 Professional Overview
+##  Professional Overview
 
 <table>
   <tr>
     <td>
-      <h4>📘 Academic Background</h4>
+      <h4> Academic Background</h4>
       <ul>
         <li><strong>Computer Engineering Student</strong> focused on AI/ML</li>
         <li><strong>Research:</strong> AI, IoT Systems, Data Engineering</li>
@@ -45,7 +45,7 @@ Computer Engineering student passionate about building innovative solutions thro
       </ul>
     </td>
     <td>
-      <h4>🧠 Professional Expertise</h4>
+      <h4> Professional Expertise</h4>
       <ul>
         <li><strong>Full-Stack Development</strong> (Web & Mobile)</li>
         <li><strong>AI/ML Implementation</strong> & Deployment</li>
@@ -57,7 +57,7 @@ Computer Engineering student passionate about building innovative solutions thro
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
@@ -84,7 +84,7 @@ Computer Engineering student passionate about building innovative solutions thro
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -105,7 +105,7 @@ Computer Engineering student passionate about building innovative solutions thro
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dagiayy&theme=dracula&hide_border=true&background=1A1B27&stroke=4ECDC4&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" width="45%" />
@@ -135,7 +135,7 @@ Enterprise Solutions
 
 ---
 
-## 🛠 Additional Tools
+##  Additional Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -148,7 +148,7 @@ Enterprise Solutions
 
 ---
 
-## 👁‍🗨 Visitor Count
+##  Visitor Count
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Dagiayy/count.svg" />
