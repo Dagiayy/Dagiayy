@@ -9,45 +9,34 @@
 
 <div align="center">
 
-### 🚀 **Transforming Ideas into Intelligent Solutions**
+### **Transforming Ideas into Intelligent Solutions**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Web+%26+Mobile+Developer;AI+%26+Machine+Learning+Specialist;Medical+%26+Financial+Platform+Builder;E-commerce+%26+Data+Solutions+Expert" alt="Professional Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+%26+Machine+Learning+Developer;Full-Stack+Web+%26+Mobile+Solutions;Data+Engineering+%26+Analytics+Specialist;Always+Building+Tomorrow's+Technology" alt="Professional Typing Animation" />
 
 </div>
 
 ---
 
-## 🎯 **Professional Overview**
+## **Professional Overview**
 
 <table>
 <tr>
 <td width="50%">
 
-### 💼 **Current Focus**
-- 🏥 **Medical Data Platform** - Telegram-based healthcare data management
-- 💳 **Financial Risk Systems** - Credit assessment & complaint resolution
-- 🛒 **E-commerce Intelligence** - Amharic language data extraction
-- 📊 **Analytics Dashboards** - Customer experience optimization
-
-### 🎓 **Academic Excellence**
-- **Computer Engineering Student** specializing in AI/ML
-- **Research Focus**: IoT Systems, Data Engineering, Web Technologies
-- **Project Portfolio**: Full-stack applications, ML models, data platforms
+### **Academic Excellence**
+- **Computer Engineering Student** with AI/ML focus
+- **Research Areas**: Artificial Intelligence, IoT Systems, Data Engineering
+- **Academic Projects**: Advanced algorithms, system design, machine learning models
 
 </td>
 <td width="50%">
 
-### 🏆 **Professional Strengths**
-- ✅ **Full-Stack Development** - End-to-end web applications
-- ✅ **Medical Technology** - Healthcare data management systems
-- ✅ **Financial Solutions** - Risk assessment & fraud detection
-- ✅ **Multi-language Processing** - Amharic & English data handling
-- ✅ **Real-time Systems** - Telegram bots & live data processing
-
-### 🎯 **Business Impact**
-- 📈 **Healthcare Efficiency** - 50%+ faster data processing
-- 🔧 **Financial Accuracy** - Advanced risk prediction models
-- 🚀 **E-commerce Growth** - Multi-language market expansion
+### **Professional Strengths**
+- **Full-Stack Development** (Web & Mobile)
+- **AI/ML Implementation** & Model Deployment
+- **Database Architecture** & Optimization
+- **Cloud Solutions** & DevOps Practices
+- **Agile Development** & Team Collaboration
 
 </td>
 </tr>
@@ -55,33 +44,103 @@
 
 ---
 
-## 🛠️ **Technology Arsenal**
+## **Most Used Languages**
 
 <div align="center">
 
-### **Frontend Excellence**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,html,css,js,ts,tailwind,bootstrap" alt="Frontend Technologies" /></p>
-
-### **Backend Mastery**
-<p><img src="https://skillicons.dev/icons?i=python,nodejs,django,fastapi,express,cpp,java,php" alt="Backend Technologies" /></p>
-
-### **Database & Cloud**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,gcp,docker,kubernetes" alt="Database & Cloud" /></p>
-
-### **AI/ML & Data Science**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI/ML Technologies" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></p>
-
-### **Development Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" alt="Development Tools" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagiayy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
 ---
 
-## 📊 **Performance Metrics**
+## **Technology Stack**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### **Frontend**
+React, Next.js, Vue.js  
+Flutter, TypeScript  
+HTML5, CSS3, Tailwind
+
+</td>
+<td width="25%" align="center">
+
+### **Backend**
+Python, Node.js  
+Django, FastAPI  
+Express, C++
+
+</td>
+<td width="25%" align="center">
+
+### **Database**
+MongoDB, PostgreSQL  
+MySQL, Redis  
+Database Design
+
+</td>
+<td width="25%" align="center">
+
+### **AI/ML**
+TensorFlow, PyTorch  
+Pandas, NumPy  
+Scikit-learn, Jupyter
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## **Featured Projects**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### **AI Study Assistance Platform**
+**Tech Stack**: Python, TensorFlow, React, Node.js, MongoDB
+
+**Key Features**:
+- Intelligent tutoring system
+- Personalized learning paths
+- Performance analytics
+- Adaptive questioning algorithms
+
+**Business Impact**: Improving learning outcomes by 60%
+
+</td>
+<td width="50%">
+
+### **Enterprise Link Management Suite**
+**Tech Stack**: React, Django, PostgreSQL, AWS
+
+**Key Features**:
+- Multi-tenant architecture
+- Advanced analytics dashboard
+- Enterprise-grade security
+- API-first design
+
+**Business Impact**: Reducing content management time by 45%
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## **Performance Metrics**
 
 <div align="center">
 
@@ -102,94 +161,17 @@
 
 ---
 
-## 🏅 **Achievements & Recognition**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dagiayy&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Achievements" />
-
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 **Medical Data Platform**
-**Tech Stack**: Python, Telegram API, Data Processing  
-**Features**:
-- Real-time medical data collection
-- Automated data validation
-- Healthcare analytics dashboard
-- Multi-user management system
-
-**Impact**: Streamlined healthcare data workflow
-
-</td>
-<td width="50%">
-
-### 💳 **Financial Risk Engine**
-**Tech Stack**: Python, Machine Learning, Statistical Analysis  
-**Features**:
-- Credit risk probability modeling
-- Complaint resolution automation
-- Fraud detection algorithms
-- Real-time risk assessment
-
-**Impact**: Enhanced financial decision accuracy
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 **E-commerce Data Extractor**
-**Tech Stack**: Python, NLP, Multi-language Processing  
-**Features**:
-- Amharic language data extraction
-- Product information parsing
-- Market sentiment analysis
-- Automated content categorization
-
-**Impact**: Expanded market reach & insights
-
-</td>
-<td width="50%">
-
-### 📊 **Customer Analytics Suite**
-**Tech Stack**: Python, Data Visualization, Statistical Modeling  
-**Features**:
-- Customer experience tracking
-- Behavioral pattern analysis
-- Fintech app optimization
-- Performance dashboards
-
-**Impact**: Improved user engagement metrics
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 **Professional Development**
+## **Professional Development**
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[🎓 Computer Engineering] --> B[💻 Full-Stack Development]
-    B --> C[🤖 AI/ML Specialization]
-    C --> D[🏥 Healthcare Systems]
-    D --> E[💰 Financial Technology]
-    E --> F[🌍 Multi-language Solutions]
+    A[Computer Engineering] --> B[Full-Stack Development]
+    B --> C[AI/ML Specialization]
+    C --> D[Data Engineering]
+    D --> E[Cloud Architecture]
+    E --> F[Enterprise Solutions]
     
     style A fill:#FF6B6B
     style B fill:#4ECDC4
