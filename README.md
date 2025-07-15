@@ -6,7 +6,7 @@
   <a href="https://github.com/Dagiayy" target="_blank">
     <img alt="Coding Animation" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Dagiayy" target="_blank">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Dagiayy&data=followers,repositories,stars,commits&theme=dark" alt="GitHub Stats" width="90%" height="0%">
   </a>
@@ -14,10 +14,27 @@
 
 ---
 
-### 👋 Hi, I'm **Dagmawi Ayenew** — AI Study Assistance Creator & Full-Stack Developer from Ethiopia 🇪🇹
+### 👋 Hi, I'm **Dagmawi Ayenew**  
+Computer Engineering student passionate about AI and full-stack development.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=20C20E&size=24&pause=1000&center=true&width=440&height=40&lines=AI+Study+Assistance;Link+Management+App+%26+Webapp;AI%2C+ML%2C+Data+Engineering;Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
+
+---
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" height="40" />
+  <img alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" height="40" />
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" height="40" />
+  <img alt="C++" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40" />
+  <img alt="Django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" width="40" height="40" />
+  <img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" height="40" />
+  <img alt="Flutter" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="40" height="40" />
+  <img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40" height="40" />
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40" height="40" />
 </p>
 
 ---
