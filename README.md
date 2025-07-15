@@ -6,7 +6,7 @@
   <a href="https://github.com/Dagiayy" target="_blank">
     <img alt="Coding Animation" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://github.com/Dagiayy" target="_blank">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Dagiayy&data=followers,repositories,stars,commits&theme=dark" alt="GitHub Stats" width="90%" height="0%">
   </a>
