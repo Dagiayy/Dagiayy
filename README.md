@@ -122,4 +122,41 @@ Computer Engineering student passionate about building innovative solutions thro
 ---
 
 ## 📈 Professional Development Flow
+Computer Engineering
+↓
+Full-Stack Development
+↓
+AI/ML Specialization
+↓
+Data Engineering
+↓
+Enterprise Solutions
+
+
+---
+
+## 🛠 Additional Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4B4?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=FFEAA7" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+## 👁‍🗨 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Dagiayy/count.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/thankyou%20RJ.svg" width="90%" alt="Thanks for Visiting" />
+</p>
 
