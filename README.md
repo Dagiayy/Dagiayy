@@ -14,21 +14,22 @@
 
 ---
 
-### 👋 Hi, I'm **Dagmawi Ayenew** — AI-Powered Studying Assistant Creator & Full-Stack Developer from Ethiopia 🇪🇹
+### 👋 Hi, I'm **Dagmawi Ayenew** — AI Study Assistance Creator & Full-Stack Developer from Ethiopia 🇪🇹
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=20C20E&size=24&pause=1000&center=true&width=440&height=40&lines=AI-Powered+Study+Assistant;Full-Stack+Web+%26+App+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=20C20E&size=24&pause=1000&center=true&width=440&height=40&lines=AI+Study+Assistance;Link+Management+App+%26+Webapp;AI%2C+ML%2C+Data+Engineering;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔭 Currently working on
-- Building an AI Study Assistant app integrated with GitHub and Flutter
-- Learning advanced AI automation and data pipelines
+- AI Study Assistance app  
+- Link Management app & web app  
 
 ### 🌱 I’m currently learning
-- Deep Learning and AI model deployment
-- Cloud-native scalable backend with Django & Node.js
+- Artificial Intelligence & Machine Learning  
+- Data Engineering & Data Analysis  
+- Internet of Things (IoT)  
 
 ### 💼 Skills & Tech Stack
 <p align="center">
